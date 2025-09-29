@@ -1,12 +1,14 @@
 # AI-Powered Research Summarization for WHO
 
 ## 🌍 Overview
-An enterprise-grade automated system deployed at World Health Organization (WHO) Geneva that automates the monitoring and summarization of global medical research. Transforms complex academic articles into actionable executive briefings for public health leadership.
+An enterprise-grade automated system deployed at World Health Organization (WHO) Geneva that automates the monitoring and summarization of global medical research. Transforms complex academic articles into actionable executive briefings for public health leadership. Combines the technical finesse with easy-to-use started without needing the user to install anything.
 
 ## 🏗️ Technical Architecture
+- **Non-Technical audience**: Created in Native Excel VBA, checks for selenium, chrome driver and other needed prerequisite without asking user for any changes.
 - **Data Collection**: Automated scraping of 10+ top medical journals
 - **Quality Control**: Multi-stage validation ensuring accuracy
 - **Output Generation**: Structured PowerPoint reports with key insights
+
 <img width="1307" height="738" alt="image" src="https://github.com/user-attachments/assets/075422ef-9e39-43fb-8b3e-8d3e1288ab7c" />
 
 ## 🎯 Impact
