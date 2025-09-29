@@ -5,6 +5,7 @@ An enterprise-grade automated system deployed at World Health Organization (WHO)
 
 ## 🏗️ Technical Architecture
 - **Non-Technical audience**: Created in Native Excel VBA, checks for selenium, chrome driver and other needed prerequisite without asking user for any changes.
+- **12 Different Journals**: Creates the output using the highest quality journals avialable for research and benchmarking purposes.
 - **Data Collection**: Automated scraping of 10+ top medical journals
 - **Quality Control**: Multi-stage validation ensuring accuracy
 - **Output Generation**: Structured PowerPoint reports with key insights
